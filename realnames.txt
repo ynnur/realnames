@@ -35,6 +35,7 @@
 0:0:43442807    StormScreamer .ru
 0:0:10079251    cub .ru
 0:1:29723513    fen .ru
+0:0:19378405    bern .ru
 0:1:38875445    undead .ru
 0:1:33339362    H@nt3r .ru
 0:0:44965868    acid .ru
